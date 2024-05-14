@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'dragoncaps';
+    src: url('https://hashsan.github.io/wizblue/dragoncaps.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/*
+body {
+    font-family: 'dragoncaps', sans-serif;
+}
+*/
